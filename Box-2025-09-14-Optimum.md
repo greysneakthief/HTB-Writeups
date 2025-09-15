@@ -2,15 +2,14 @@
 box: Optimum
 date: 2025-09-14
 category: Misc
-difficulty: Very Easy
+difficulty: Easy
 tags:
   - codeinjection
   - RCE
   - windows
 start: 2025-09-14 13:40
 finish: 2025-09-15 18:15
-
-status: in-progress
+status: complete
 ---
 
 # Box Overview – Box-2025-09-14-Optimum
